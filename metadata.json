@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI",
+  "description": "Personal AI Employee & Autonomous Voice-Controlled Android Agent powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
